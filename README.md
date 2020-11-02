@@ -62,7 +62,7 @@ PROJECTS
 
 
 
-
+![GitHub Logo](/images/logo.png)
 
 
 
