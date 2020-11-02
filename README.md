@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
 
 <h1>Sahar Ghassabi</h1>    
 Sahar.ghassabi.76@gmail.com 
  
-I have a bachelor's degree from Urmia University and  experience working in the field of Internet of Things, Data Mining and Computer Networks.                                          
+_I have a bachelor's degree from Urmia University and  experience working in the field of Internet of Things, Data Mining and Computer Networks._                                          
  
                                                                                                                   
 <h2>ACADEMIC RECORDS </h2/
