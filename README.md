@@ -6,13 +6,13 @@ Sahar.ghassabi.76@gmail.com
 I have a bachelor's degree from Urmia University and  experience working in the field of Internet of Things, Data Mining and Computer Networks.                                          
  
                                                                                                                   
-<h2>ACADEMIC RECORDS 	 
+<h2>ACADEMIC RECORDS </h2/
  
 •	Computer Engineering Bachelor 
-Tendency: Software 
+**Tendency: Software 
 Institute / University: Urmia University 
 2015-2019 
-Average : 16.69 
+Average : 16.69 **
  
  
 •	Diploma in Mathematics and Physics 
