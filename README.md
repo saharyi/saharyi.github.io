@@ -72,7 +72,7 @@ Average : 19.47
   Topic: IoT and web programming 
   Programming languages: Python, PHP Laravel 
  
- <h3>[My GitHub page](https://github.com/saharyi/saharyi.github.io/edit/main/README.md) </h3>
+ <h3>My GitHub page is: https://github.com/saharyi</h3>
 
 
 
