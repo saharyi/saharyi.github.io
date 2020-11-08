@@ -74,7 +74,7 @@ Average : 19.47
  
  <h4>My GitHub page: https://github.com/saharyi</h4>
  
-  <h4>My LinkedIn page: https://www.linkedin.com/sahar-ghassabi</h4>
+  <h4>My LinkedIn page: https://www.linkedin.com/in/sahar-ghassabi-676722183/</h4>
 
 
 
