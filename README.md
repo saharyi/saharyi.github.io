@@ -8,15 +8,22 @@ _I have a bachelor's degree from Urmia University and  experience working in the
 <h2>ACADEMIC RECORDS </h2>
  
 •	Computer Engineering Bachelor 
+
 Tendency: Software 
+
 Institute / University: Urmia University 
+
 2015-2019 
+
 Average : 16.69 
  
  
 •	Diploma in Mathematics and Physics 
+
 Institute / University: Fatemeh Al-Zahra High School 
+
 2011-2015 
+
 Average : 19.47 
  
  
@@ -65,7 +72,7 @@ Average : 19.47
   Topic: IoT and web programming 
   Programming languages: Python, PHP Laravel 
  
- 
+ <h3>[My GitHub page](https://github.com/saharyi/saharyi.github.io/edit/main/README.md) </h3>
 
 
 
