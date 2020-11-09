@@ -9,22 +9,22 @@ _I have a bachelor's degree from Urmia University and  experience working in the
  
 •	Computer Engineering Bachelor 
 
-Tendency: Software 
+   Tendency: Software 
 
-Institute / University: Urmia University 
+   Institute / University: Urmia University 
 
-2015-2019 
+   2015-2019 
 
-Average : 16.69 
+   Average : 16.69 
  
  
 •	Diploma in Mathematics and Physics 
 
-Institute / University: Fatemeh Al-Zahra High School 
+  Institute / University: Fatemeh Al-Zahra High School 
 
-2011-2015 
+  2011-2015 
 
-Average : 19.47 
+  Average : 19.47 
  
  
  
@@ -59,27 +59,27 @@ Average : 19.47
  
 •	Project title: Implementation of forest fire forecasting system 
 
- Subject: Data mining 
+   Subject: Data mining 
  
- Programming language : Python 
+   Programming language : Python 
  
 •	Project title: Implementation of stock price prediction system using online stock price data 
 
- Subject: Data mining 
+   Subject: Data mining 
  
- Programming language: Python 
+   Programming language: Python 
  
 •	Project title: Implementation of Hamshahri body information loading system 
 
- Subject: Data Recovery 
+   Subject: Data Recovery 
 
- Programming language: Python 
+   Programming language: Python 
  
 •	Project title: Implementing a permanent storage platform for Internet of Things data on a platform based LoRaWAN 
 
- Subject: IoT and web programming 
+  Subject: IoT and web programming 
  
- Programming languages: Python, PHP Laravel 
+  Programming languages: Python, PHP Laravel 
  
  <h4>Please see:</h4>
 
