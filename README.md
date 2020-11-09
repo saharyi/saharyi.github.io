@@ -72,9 +72,9 @@ Average : 19.47
   Topic: IoT and web programming 
   Programming languages: Python, PHP Laravel 
  
- <h4>My GitHub page: (https://github.com/saharyi)</h4>
+ <h4>[My GitHub page:] (https://github.com/saharyi)</h4>
  
-  <h4>My LinkedIn page: (https://www.linkedin.com/in/sahar-ghassabi-676722183)</h4>
+  <h4>[My LinkedIn page:] (https://www.linkedin.com/in/sahar-ghassabi-676722183)</h4>
 
 
 
