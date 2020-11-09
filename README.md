@@ -58,27 +58,35 @@ Average : 19.47
 <h2>PROJECTS 	</h2> 
  
 •	Project title: Implementation of forest fire forecasting system 
+
  Subject: Data mining 
+ 
  Programming language : Python 
  
 •	Project title: Implementation of stock price prediction system using online stock price data 
+
  Subject: Data mining 
+ 
  Programming language: Python 
  
-•	Project title: Implementation of Hamshahri body information loading system  Topic: Data Recovery 
+•	Project title: Implementation of Hamshahri body information loading system 
+
+ Subject: Data Recovery 
+
  Programming language: Python 
  
 •	Project title: Implementing a permanent storage platform for Internet of Things data on a platform based LoRaWAN 
-  Topic: IoT and web programming 
-  Programming languages: Python, PHP Laravel 
+
+ Subject: IoT and web programming 
  
+ Programming languages: Python, PHP Laravel 
+ 
+ <h4>Please see:</h4>
 
 [My GitHub page](https://github.com/saharyi)
  
 [My LinkedIn page](https://www.linkedin.com/in/sahar-ghassabi-676722183)
 
-
-[GitHub](http://github.com)
 
 
 
