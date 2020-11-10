@@ -63,12 +63,6 @@ _I have a bachelor's degree from Urmia University and  experience working in the
  
    Programming language : Python 
  
-•	Project title: Implementation of stock price prediction system using online stock price data 
-
-   Subject: Data mining 
- 
-   Programming language: Python 
- 
 •	Project title: Implementation of Hamshahri body information loading system 
 
    Subject: Data Recovery 
