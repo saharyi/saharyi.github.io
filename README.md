@@ -9,25 +9,22 @@ _
                                                                                                                   
 <h2>ACADEMIC RECORDS </h2>
  
-•	Computer Engineering Bachelor 
+•M.S in Computer Engineering
+    Tendency: Software
+    Institute / University: Ferdowsi University of Mashhad
+    2020-Now
+    GPA: 18.90
+• B.S in Computer Engineering 
+    Tendency: Software
+    Institute / University: Urmia University
+    2015-2019
+   GPA : 16.69
+• Diploma in Mathematics and Physics
+Institute / University: Fatemeh Al-Zahra High School
+    2011-2015
+    GPA : 19.47
 
-   Tendency: Software 
 
-   Institute / University: Urmia University 
-
-   2015-2019 
-
-   Average : 16.69 
- 
- 
-•	Diploma in Mathematics and Physics 
-
-  Institute / University: Fatemeh Al-Zahra High School 
-
-  2011-2015 
-
-  Average : 19.47 
- 
  
  
 <h2>SKILLS</h2>
