@@ -2,27 +2,37 @@
 <h1>Sahar Ghassabi</h1>    
 Sahar.ghassabi.76@gmail.com 
  
-_A person interested in learning artificial intelligence and Machine Learning and working with data.
- I work in Web Technology Lab in Ferdowsi university of Mashhad and I have skills in working with several programming languages including C ++, Python and Java. And I did some projects with these languages in undergraduate and graduate courses. And I am an active person in the field of teamwork._                                         
+A person interested in  artificial intelligence and Machine Learning and working with data.
+ I work in Web Technology Lab in Ferdowsi university of Mashhad and I have skills in working with several programming languages including C ++, Python and Java. And I did some projects with these languages in undergraduate and graduate courses. And I am an active person in the field of teamwork.                                    
  
                                                                                                                   
 <h2>ACADEMIC RECORDS </h2>
  
-•M.S in Computer Engineering
+• M.S in Computer Engineering
+
     Tendency: Software
+    
     Institute / University: Ferdowsi University of Mashhad
+    
     2020-Now
+    
     GPA: 18.90
     
     
 • B.S in Computer Engineering 
+
     Tendency: Software
+    
     Institute / University: Urmia University
+    
     2015-2019
-   GPA : 16.69
+    
+    GPA : 16.69
    
 • Diploma in Mathematics and Physics
-Institute / University: Fatemeh Al-Zahra High School
+
+    Institute / University: Fatemeh Al-Zahra High School
+
     2011-2015
     GPA : 19.47
 
