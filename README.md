@@ -2,7 +2,9 @@
 <h1>Sahar Ghassabi</h1>    
 Sahar.ghassabi.76@gmail.com 
  
-_I have a bachelor's degree from Urmia University and  experience working in the field of Internet of Things, Data Mining and Computer Networks._                                          
+_A person interested in learning artificial intelligence and Machine Learning and working with data.
+ I work in Web Technology Lab in Ferdowsi university of Mashhad and I have skills in working with several programming languages including C ++, Python and Java. And I did some projects with these languages in undergraduate and graduate courses. And I am an active person in the field of teamwork.
+_                                          
  
                                                                                                                   
 <h2>ACADEMIC RECORDS </h2>
