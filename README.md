@@ -16,7 +16,7 @@ A person interested in  artificial intelligence and Machine Learning and working
     
     2020-Now
     
-    GPA: 18.90
+    GPA: 18.62
     
     
 • B.S in Computer Engineering 
@@ -39,7 +39,7 @@ A person interested in  artificial intelligence and Machine Learning and working
 
 <h2>SKILLS</h2>
  
-•	Programming in languages: C, C ++, Python, Asp.net MVC, PHP, PHP Laravel 
+•	Programming in languages: C, C ++, Python, Asp.net MVC
 
 •	Mastery of database systems 
 
@@ -56,7 +56,9 @@ A person interested in  artificial intelligence and Machine Learning and working
 
 •	Machin learning 
 
-•	Web programming 
+•	Deep learning 
+
+•	Natural language proccessing
 
 •	IoT 
 
@@ -72,17 +74,46 @@ A person interested in  artificial intelligence and Machine Learning and working
  
    Programming language : Python 
  
-•	Project title: Implementation of Hamshahri body information loading system 
-
-   Subject: Data Recovery 
-
-   Programming language: Python 
+   [Code](https://github.com/saharyi/forestfire/tree/master)
  
 •	Project title: Implementing a permanent storage platform for Internet of Things data on a platform based LoRaWAN 
 
   Subject: IoT and web programming 
  
   Programming languages: Python, PHP Laravel 
+  
+  [Code](https://github.com/saharyi/Socket-and-thread-programming-in-python-for-give-many-data-from-redis-and-save-them-in-mongodb/tree/master)
+  
+•	Project title: Implementation of FAT32 file system
+ 
+   Subject: Advanced Operating System 
+ 
+   Programming languages:C
+   
+   [Code](https://github.com/xeptore/simple-fat-fs)
+   
+
+•	Project title: Implementation of the article "Improved logistic regression model for predicting diabetes by integrating K-means and PCA techniques"
+
+  Subject: Advanced Data Mining
+ 
+  Programming languages: Python
+  
+  [Code](https://github.com/saharyi/dataminingproject/tree/master)
+  
+•	Project title: Implementation of a mechanism to extract information such as the name of the author, professor, guide, referees, title, etc. from theses of Ferdowsi                    University of Mashhad.
+
+  Subject: Web Mining
+ 
+  Programming languages: Python
+  
+  [Code](https://github.com/aref98/Thesis-Extractor)
+  
+•	Project title: Implementation of web application based on Asp.net to communicate with Arduino boards
+
+  Subject: IoT and Web programming
+  
+  [Code](https://github.com/saharyi/A-Web-Asp.Net-MVC-App-for-communication-with-Arduino-devices/tree/master)
  
  <h4>Please see:</h4>
 
