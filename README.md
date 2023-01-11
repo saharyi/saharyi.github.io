@@ -1,4 +1,4 @@
-![My_Photo](Screenshot (494).png)
+![My_Photo](/Screenshot (494).png)
 <h1>Sahar Ghassabi</h1>    
 Sahar.ghassabi.76@gmail.com 
  
