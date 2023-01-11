@@ -1,4 +1,4 @@
-![me!](/assets/images/Snapchat-863508747.jpg "me")
+![me!](/assests/images/Snapchat-863508747.jpg "me")
 <h1>Sahar Ghassabi</h1>    
 Sahar.ghassabi.76@gmail.com 
  
