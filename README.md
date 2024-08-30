@@ -130,8 +130,6 @@ I am a creative person with an unwavering passion for artificial intelligence an
    [Code](https://github.com/xeptore/simple-fat-fs)
    
  <h4>Please see:</h4>
-
-[My GitHub page](https://github.com/saharyi)
  
 [My LinkedIn page](https://www.linkedin.com/in/sahar-ghassabi-676722183)
 
